@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div className="min-h-screen bg-black text-white flex flex-col items-center px-4 py-12 relative overflow-hidden">
       <div className="flex items-center gap-3 mb-12 z-10">
-        <h1 className="text-4xl font-bold mb-5">What's the Purpose of Knowing Our People?</h1>
+        <h1 className="text-4xl font-bold mb-5">What&apos;s the Purpose of Knowing Our People?</h1>
       </div>
 
       {/* Strategic Priorities Section */}
