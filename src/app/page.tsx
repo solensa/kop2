@@ -152,7 +152,7 @@ export default function Home() {
               />
             </div>
             <div className="px-6 py-5 max-w-[323px] mx-auto">
-              <h3 className="text-2xl font-bold mb-1 text-center">For Laing O'Rourke</h3>
+              <h3 className="text-2xl font-bold mb-1 text-center">For Laing O&apos;Rourke</h3>
               <ul className="mt-4 mb-4 space-y-3 leading-[1.2]">
                 <li className="flex items-center gap-4 h-11">
                   <Image
@@ -215,7 +215,7 @@ export default function Home() {
             <ul className="mb-12 list-disc pl-6">
               <li>Managing talent through ratings</li>
               <li>Ratings done by senior leaders</li>
-              <li>Functional or project silo's</li>
+              <li>Functional or project silo&apos;s</li>
               <li>Talent programmes that are only focused on high potentials</li>
             </ul>
           </div>
@@ -239,7 +239,7 @@ export default function Home() {
             <ul className="mb-5 list-disc pl-6">
               <li>Managing talent through ratings</li>
               <li>Ratings done by senior leaders</li>
-              <li>Functional or project silo's</li>
+              <li>Functional or project silo&apos;s</li>
               <li>Talent programmes that are only focused on high potentials</li>
             </ul>
 
