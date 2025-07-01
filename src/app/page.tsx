@@ -195,7 +195,7 @@ export default function Home() {
         </div>
       </div>
       {/* Goals Section */}
-      <div className="w-full max-w-6xl grid grid-cols-1 md:grid-cols-2 gap-6 mb-20 z-10">
+      <div className="w-full max-w-6xl grid grid-cols-1 md:grid-cols-2 gap-6 mb-10 z-10">
         {/* Traditional */}
         <div className="bg-white rounded-lg overflow-hidden text-black relative hover:transform hover:-translate-y-1 hover:transition-all hover:duration-200 hover:shadow-lg">
           <div className="h-2.5 w-full bg-gradient-to-r from-[#009CDE] to-[#00A7B5]"></div>
@@ -254,7 +254,14 @@ export default function Home() {
           </div>
         </div>
       </div>
-
+      <a
+        href="https://laingorourke.sharepoint.com/sites/igate/Pages/our-strategy.aspx"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="inline-block bg-[#FFCD00] hover:bg-[#e0a930] text-black font-medium py-3 px-8 rounded-md transition-colors cursor-pointer"
+      >
+        See Our Colleague Career Growth Stories
+      </a>
       <Image
         src="/gradient.png"
         alt=""
