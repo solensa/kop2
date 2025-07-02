@@ -236,10 +236,10 @@ export default function Home() {
             </div>
 
             <ul className="mb-5 list-disc pl-6">
-              <li>Managing talent through ratings</li>
-              <li>Ratings done by senior leaders</li>
-              <li>Functional or project silo&apos;s</li>
-              <li>Talent programmes that are only focused on high potentials</li>
+              <li>Holistic view & greater insight</li>
+              <li>More managers providing input</li>
+              <li>Integrated approach across project & function</li>
+              <li>Personalised careers & squiggly opportunities</li>
             </ul>
 
             <div className="bg-[#DAFCEF] rounded-lg p-4 mb-4 border border-[#A6E4CB] flex justify-center">
