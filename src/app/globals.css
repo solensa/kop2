@@ -22,5 +22,5 @@
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: F37 Ginger, Century Gothic, Sans Serif;
+  font-family: F37 Ginger, Century Gothic, "F37 Ginger", "Century Gothic", "Sans Serif", sans-serif;
 }
